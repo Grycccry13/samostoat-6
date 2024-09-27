@@ -1,1 +1,14 @@
+     {
+       "name": "samostoat-6",
+       "version": "1.0.0",
+       "description": "Описание вашего проекта",
+       "main": "index.js", 
+       "scripts": {
+         "test": "jest" // или команда запуска тестов, если у вас не Jest
+       },
+       "dependencies": {
+         "jest": "^29.6.4" // или другие ваши зависимости
+       }
+     }
+     
 
